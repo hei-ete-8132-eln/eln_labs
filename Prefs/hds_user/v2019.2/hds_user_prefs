@@ -1270,7 +1270,6 @@ projectPaths [
 "C:\\work\\git\\Education\\eln\\projects\\Cursor_trial\\Prefs\\cursor.hdp"
 "C:\\work\\git\\Education\\eln\\labo\\solution\\eln_labs\\Prefs\\eln_labs.hdp"
 "C:\\work\\git\\Education\\eln\\labo\\solution\\eln_labs\\Prefs\\hds.hdp"
-"C:\\work\\git\\Education\\eln\\labo\\student\\ete_eln_labs\\Prefs\\hds.hdp"
 ]
 libMappingsRootDir ""
 teamLibMappingsRootDir ""
@@ -1689,7 +1688,7 @@ width 1168
 height 1614
 )
 (PageSizeInfo
-name "FinePrint 2 Seiten Letter"
+name "FinePrint 2-up Letter"
 type 257
 width 783
 height 1210
@@ -4332,7 +4331,7 @@ hdsWorkspaceLocation ""
 relativeLibraryRootDir ""
 vmLabelLatestDontAskAgain 0
 vmLabelWorkspaceDontAskAgain 0
-logWindowGeometry "600x200+1311+41"
+logWindowGeometry "600x200+2349+55"
 diagramBrowserTabNo 0
 showInsertPortHint 0
 showContentFirstTime 0
@@ -6347,6 +6346,15 @@ declHierarchy [
 ]
 activeViewpointIdx 0
 )
+(WorkTab
+name "<Empty>"
+showingHierarchy 0
+openLibs [
+]
+declHierarchy [
+]
+activeViewpointIdx 0
+)
 ]
 ViewpointsOnOutlookBar [
 "Requirements"
@@ -6365,16 +6373,17 @@ SplitterClientPrefs [
 (SplitterPreference
 hidden 0
 expand 0
-size 183
+size 180
 )
 ]
 displayHierarchy 0
 xPos 0
-yPos 43
+yPos 57
 width 1068
 height 838
 activeSidePanelTab 2
-sidePanelSize 258
+activeLibraryTab 1
+sidePanelSize 278
 showUnixHiddenFiles 0
 componentBrowserXpos 569
 componentBrowserYpos 300
