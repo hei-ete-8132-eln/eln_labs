@@ -1271,6 +1271,7 @@ projectPaths [
 "C:\\work\\git\\Education\\eln\\labo\\solution\\eln_labs\\Prefs\\eln_labs.hdp"
 "C:\\work\\git\\Education\\eln\\labo\\solution\\eln_labs\\Prefs\\hds.hdp"
 "C:\\work\\edu\\eln\\labo\\eln_labs\\Prefs\\hds.hdp"
+"C:\\work\\edu\\eln\\labo\\ete_eln_labs_stud\\Prefs\\hds.hdp"
 ]
 libMappingsRootDir ""
 teamLibMappingsRootDir ""
@@ -6014,6 +6015,16 @@ activeViewpointIdx 0
 name "<Empty>"
 showingHierarchy 0
 openLibs [
+]
+declHierarchy [
+]
+activeViewpointIdx 0
+)
+(WorkTab
+name "PHA"
+showingHierarchy 0
+openLibs [
+"PHA"
 ]
 declHierarchy [
 ]
